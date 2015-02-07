@@ -1,0 +1,10 @@
+name: MitroNethon
+main: me.roman3349.mitronethon.Main
+author: Roman3349
+website: http://roman3349.safaricraft.cz/
+version: 1.0.0
+permissions:
+    mitronethon.player:
+         default: false
+    mitronethon.admin:
+         default: false
